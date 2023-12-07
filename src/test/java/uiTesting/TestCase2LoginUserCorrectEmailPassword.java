@@ -1,3 +1,5 @@
+package uiTesting;
+
 import verification.Verify;
 import pages.*;
 import utils.actions.NavigateToUrl;

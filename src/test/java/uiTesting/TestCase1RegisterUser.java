@@ -1,3 +1,5 @@
+package uiTesting;
+
 import verification.Verify;
 import logic.RegisterUser;
 import utils.actions.NavigateToUrl;
